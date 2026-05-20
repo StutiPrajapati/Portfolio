@@ -25,7 +25,7 @@ Contact Information: A section where visitors can find ways to get in touch with
 
 What I Learned,
 
-Creating my portfolio was not just about showcasing my work—it was also a learning experience. I improved my skills in web development, design, and content organization. I also learned how to present myself professionally, which is an essential skill for any career.
+Creating my portfolio was not just about showcasing my work - it was also a learning experience. I improved my skills in web development, design, and content organization. I also learned how to present myself professionally, which is an essential skill for any career.
 
 Conclusion
 
